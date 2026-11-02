@@ -1,0 +1,21 @@
+# Executables
+ftp_client
+ftp_server
+
+# Object and dependency files
+*.o
+*.d
+
+# Build directories
+build/
+bin/
+obj/
+
+# Logs
+*.log
+
+# Generated download output
+downloaded.bin
+
+# IDE files
+.vscode/
